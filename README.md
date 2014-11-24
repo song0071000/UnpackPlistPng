@@ -19,5 +19,5 @@ Let the large png file decompose into tiny png file with the use of plist and pn
   
   then the folder name "plistname" will be made and it includes tiny png files you want.
 
-##example
+##Example
   if the current directory has files "unpack_plist.py" "MessageImage.plist" and "MessageImage.png", the only work you should do is typing the follow command: python unpack_plist.py MessageImage. Then the tiny png files are made.
