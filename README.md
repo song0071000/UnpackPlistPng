@@ -1,4 +1,4 @@
-unpack_plist_png
+unpack plist png
 ================
 
 Let the large png file decompose into tiny png file with the use of plist and png files.
@@ -6,9 +6,8 @@ Let the large png file decompose into tiny png file with the use of plist and pn
 ##Configuration:
   The script "unpack_plist.py" only work in windows environment. Before using it, you should :
   
-  1.install python2.7
-  
-  2.install Python Extension Packages Pillow‑2.6.1.win32‑py2.7.exe or Pillow‑2.6.1.win‑amd64‑py2.7.exe.
+  *1.install python2.7(make sure python is correspond to pillow, that means 32bit to 32bit.)
+  *2.install Python Extension Packages Pillow‑2.6.1.win32‑py2.7.exe or Pillow‑2.6.1.win‑amd64‑py2.7.exe.
   
   here is download url: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pil
 
